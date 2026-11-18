@@ -1,5 +1,5 @@
-CREATE DATABASE qlsuachua;
-USE qlsuachua;
+CREATE DATABASE qlsc thietbi;
+USE qlsc thietbi;
 
 CREATE TABLE nguoidung (
     ma_nguoidung INT AUTO_INCREMENT PRIMARY KEY,
